@@ -8,4 +8,5 @@ Entre los desafíos clave se encuentran la infraestructura insuficiente, la falt
 Para abordar esta problemática, se podría implementar un enfoque de Business Intelligence que integre datos de múltiples fuentes (como volúmenes de carga y tráfico portuario) para anticipar y mitigar problemas logísticos. Al contar con datos en tiempo real, los puertos podrían reducir los tiempos de espera, optimizar los recursos y mejorar el flujo de mercancías, fortaleciendo así la competitividad de Perú en el comercio internacional. Este enfoque de datos permitiría a las autoridades portuarias tomar decisiones más informadas y crear planes de contingencia que minimicen el impacto de eventos climáticos y otros factores disruptivos.
 
 ComexPerú. (2024, junio 14). Índice Mundial de Desempeño de Puertos de Contenedores 2023: Callao destaca, Paita cae por problemas de carga contenerizada. ComexPerú. Recuperado de https://www.comexperu.org.pe
+
 Globalports. (2024). El desafío es la eficiencia portuaria en Perú. Globalports. Recuperado de https://www.globalports.com.ar
