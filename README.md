@@ -10,3 +10,5 @@ Para abordar esta problemática, se podría implementar un enfoque de Business I
 ComexPerú. (2024, junio 14). Índice Mundial de Desempeño de Puertos de Contenedores 2023: Callao destaca, Paita cae por problemas de carga contenerizada. ComexPerú. Recuperado de https://www.comexperu.org.pe
 
 Globalports. (2024). El desafío es la eficiencia portuaria en Perú. Globalports. Recuperado de https://www.globalports.com.ar
+
+### Drive con documentos: https://drive.google.com/drive/folders/1285u4JRQz8C6PBzDluSs2QSMNhT8oiHz?usp=sharing
